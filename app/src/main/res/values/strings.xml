@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meloman</string>
+
+    <!-- Common strings -->
+    <string name="settings_title">Settings</string>
+    <string name="blacklist_title">Blacklist</string>
+    <string name="import_music_title">Import Music</string>
+    <string name="language_title">Language</string>
+    <string name="language_summary">Select app language</string>
+    <string name="language_english">English</string>
+    <string name="language_russian">Russian</string>
+    <string name="language_restart_msg">Language changed. Please restart the app to apply all changes.</string>
+
+    <!-- Settings -->
+    <string name="theme_title">Theme</string>
+    <string name="theme_summary">Light / Dark / System</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme_system">System</string>
+
+    <string name="random_title">Playlist random order</string>
+    <string name="random_summary">None / In folder / Everywhere</string>
+    <string name="random_none">None</string>
+    <string name="random_in_folder">In folder</string>
+    <string name="random_everywhere">Everywhere</string>
+
+    <string name="music_directory_title">Playlist music directory</string>
+    <string name="music_directory_summary">Select music folder</string>
+    <string name="music_storage_title">Music storage</string>
+    <string name="music_storage_summary">Select storage location</string>
+    <string name="import_music_title_short">Import music</string>
+    <string name="import_music_summary">Copy files from storage to music folder</string>
+    <string name="auto_play_title">Auto-play</string>
+    <string name="auto_play_summary">Automatically start playback on launch</string>
+    <string name="repeat_mode_title">Repeat</string>
+    <string name="repeat_mode_summary">Repeat current track</string>
+    <string name="manage_blacklist_title">Blacklist</string>
+    <string name="manage_blacklist_summary">Manage skipped files and folders</string>
+    <string name="remember_track_position_title">Remember track position</string>
+    <string name="remember_track_position_summary">Resume playback from last position</string>
+    <string name="play_on_ignition_title">Play on ignition</string>
+    <string name="play_on_ignition_summary">Auto-play when screen wakes up</string>
+    <string name="play_when_app_closed_title">Play when app is closed</string>
+    <string name="play_when_app_closed_summary">Continue playback after closing the app</string>
+    <string name="operation_mode_title">Operation mode</string>
+    <string name="operation_mode_summary">Phone / Car mode</string>
+    <string name="mode_phone">Phone</string>
+    <string name="mode_car">Car</string>
+
+
+    <!-- Directories -->
+    <string name="dir_music_standard">Music (standard)</string>
+    <string name="dir_downloads">Downloads</string>
+    <string name="dir_internal_storage">Internal storage</string>
+    <string name="dir_sd_card">SD card</string>
+    <string name="dir_custom">Select manually</string>
+
+    <!-- Main screen -->
+    <string name="no_track_playing">No track playing</string>
+    <string name="folder_none">Folder: None</string>
+    <string name="ready">Ready</string>
+    <string name="statistics">Statistics</string>
+    <string name="statistics_formatted" formatted="false">Found %d tracks in %d folders</string>
+    <string name="scan_complete">Scan complete</string>
+    <string name="scan_error" formatted="false">Scan error: %s</string>
+    <string name="random_button_none">Random: off</string>
+    <string name="random_button_in_folder">Random: in folder</string>
+    <string name="random_button_everywhere">Random: everywhere</string>
+    <string name="time_zero">00:00</string>
+    <string name="time_remaining_zero">-00:00</string>
+    <string name="default_version">1.0.0</string>
+    <string name="debug_message_format">%1$s: %2$s\n%3$s</string>
+    <string name="author_name">LYM Soft</string>
+    <string name="time_remaining_format">-%1$s</string>
+
+    <!-- Toast messages -->
+    <string name="permission_required">Permission required to access files</string>
+    <string name="no_tracks_to_play">No tracks to play</string>
+    <string name="playback_paused">Playback paused</string>
+    <string name="playback_resumed">Playback resumed</string>
+    <string name="going_to_first_track">Going to first track</string>
+    <string name="going_to_last_track">Going to last track</string>
+    <string name="going_to_first_folder">Going to first folder</string>
+    <string name="going_to_last_folder">Going to last folder</string>
+    <string name="sound_on">Sound on</string>
+    <string name="sound_off">Sound off</string>
+    <string name="stop_text">Stop</string>
+    <string name="no_current_track">No current track</string>
+    <string name="track_added_to_blacklist" formatted="false">Track \'%s\' added to blacklist</string>
+    <string name="no_current_folder">No current folder</string>
+    <string name="folder_added_to_blacklist" formatted="false">Folder \'%s\' added to blacklist</string>
+
+    <!-- Blacklist -->
+    <string name="blacklist_empty">Blacklist is empty</string>
+    <string name="remove_from_blacklist" formatted="false">Removed from blacklist: %s</string>
+    <string name="confirm_deletion_title">Confirm deletion</string>
+    <string name="confirm_delete_file" formatted="false">Are you sure you want to delete file \'%s\'?</string>
+    <string name="confirm_delete_folder" formatted="false">Are you sure you want to delete folder \'%s\'?\nIt contains %d files.</string>
+    <string name="delete_action">Delete</string>
+    <string name="cancel_action">Cancel</string>
+    <string name="file_deleted" formatted="false">File deleted: %s</string>
+    <string name="folder_deleted" formatted="false">Folder deleted: %s</string>
+    <string name="delete_failed">Failed to delete file/folder</string>
+    <string name="return_action">Restore</string>
+    <string name="destroy_action">Destroy</string>
+
+    <!-- Import music -->
+    <string name="import_select_storage_first">First select music storage in settings</string>
+    <string name="import_cannot_match_storage_and_music">Music storage cannot match music folder</string>
+    <string name="import_cannot_be_nested" formatted="false">Music storage cannot be inside music folder\n\nStorage: %s\nMusic: %s</string>
+    <string name="import_cannot_be_nested_reverse" formatted="false">Music folder cannot be inside storage\n\nMusic: %s\nStorage: %s</string>
+    <string name="import_scanning">Scanning… </string>
+    <string name="import_storage_not_found">Storage not found</string>
+    <string name="import_storage_not_found_with_path" formatted="false">Storage not found: %s</string>
+    <string name="import_no_files_or_folders">No files or folders to import</string>
+    <string name="import_already_exists" formatted="false">File/folder already exists: %s</string>
+    <string name="import_copying" formatted="false">Copying: %s…</string>
+    <string name="import_success" formatted="false">Successfully copied: %s</string>
+    <string name="import_error" formatted="false">Copy error: %s</string>
+    <string name="import_load">Import</string>
+    <string name="import_back">Back</string>
+    <string name="import_cancel_copy">Cancel</string>
+    <string name="import_continue_copy">Continue</string>
+    <string name="BlackListItemDestroy">Destroy</string>
+    <string name="BlackListItemRestore">Restore</string>
+    <string name="import_button_import">Import</string>
+    <string name="import_button_update">Update</string>
+    <string name="Import_btn_cancel">Cancel</string>
+    <!-- Playlist strings -->
+    <string name="playlists_title">Playlists</string>
+    <string name="playlists_summary" formatted="false">Current: %s</string>
+    <string name="current_playlist_title">Current playlist</string>
+    <string name="current_playlist_summary" formatted="false">Currently selected: %s</string>
+    <string name="playlist_switch_title">Switch Playlist</string>
+    <string name="playlist_switch_message" formatted="false">Switch to \'%s\'?</string>
+    <string name="playlist_switch_success" formatted="false">Switched to playlist: %s</string>
+    <string name="playlist_create_title">Create Playlist</string>
+    <string name="playlist_create_hint">Playlist name</string>
+    <string name="playlist_create_success" formatted="false">Playlist created: %s</string>
+    <string name="playlist_create_auto" formatted="false">Playlist created: %s</string>
+    <string name="playlist_exists_error">Playlist with this name already exists</string>
+    <string name="playlist_rename_title">Rename Playlist</string>
+    <string name="playlist_rename_success" formatted="false">Playlist renamed to: %s</string>
+    <string name="playlist_delete_title">Delete Playlist</string>
+    <string name="playlist_delete_message" formatted="false">Delete \'%s\'?</string>
+    <string name="playlist_delete_success" formatted="false">Playlist deleted: %s</string>
+    <string name="playlist_delete_last_error">Cannot delete the last playlist</string>
+    <string name="playlist_sort_by_name">Sort by name</string>
+    <string name="playlist_sort_by_modified">Sort by last modified</string>
+    <string name="playlist_sort_by_used">Sort by last used</string>
+    <string name="playlist_sorted_by_name">Sorted by name</string>
+    <string name="playlist_sorted_by_modified">Sorted by last modified</string>
+    <string name="playlist_sorted_by_used">Sorted by last used</string>
+    <string name="playlist_empty">No playlists. Tap + to create one.</string>
+    <string name="playlist_modified_prefix">Modified:</string>
+    <string name="playlist_used_prefix">Used:</string>
+    <string name="select_playlist">Select Playlist</string>
+    <string name="playlist_prefix">Playlist:</string>
+    <string name="no_playlist">No playlist selected</string>
+    <string name="no_playlists_available">No playlists available</string>
+    <string name="switch_action">Switch</string>
+    <string name="edit_playlists">Edit</string>
+    <string name="playlist_directory_prefix">Folder: %1$s</string>
+    <string name="playlist_no_directory">Folder not selected</string>
+    <string name="import_storage_not_found_path">Import storage not found: %1$s</string>
+    <string name="import_item_folder_name">📁 %1$s</string>
+    <string name="track_position_format">[%1$d/%2$d] %3$s</string>
+    <string name="folder_position_format">[%1$d/%2$d] %3$s</string>
+    <string name="playlist_display_format">Playlist: %1$s</string>
+    <string name="debug_ready_summary">Ready - %1$d tracks in %2$d folders</string>
+    <string name="playlist_modified_format">%1$s %2$s</string>
+    <string name="playlist_used_format">%1$s %2$s</string>
+</resources>

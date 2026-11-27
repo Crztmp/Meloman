@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meloman</string>
+
+    <string name="settings_title">الإعدادات</string>
+    <string name="blacklist_title">القائمة السوداء</string>
+    <string name="import_music_title">استيراد الموسيقى</string>
+    <string name="language_title">اللغة</string>
+    <string name="language_summary">اختر لغة التطبيق</string>
+    <string name="language_english">الإنجليزية</string>
+    <string name="language_russian">الروسية</string>
+    <string name="language_restart_msg">تم تغيير اللغة. أعد تشغيل التطبيق لتطبيق جميع التغييرات.</string>
+
+    <string name="theme_title">السمة</string>
+    <string name="theme_summary">فاتح / داكن / النظام</string>
+    <string name="theme_light">فاتح</string>
+    <string name="theme_dark">داكن</string>
+    <string name="theme_system">النظام</string>
+
+    <string name="random_title">ترتيب عشوائي لقائمة التشغيل</string>
+    <string name="random_summary">بدون / في المجلد / في كل مكان</string>
+    <string name="random_none">بدون</string>
+    <string name="random_in_folder">في المجلد</string>
+    <string name="random_everywhere">في كل مكان</string>
+
+    <string name="music_directory_title">مجلد موسيقى قائمة التشغيل</string>
+    <string name="music_directory_summary">اختر مجلد الموسيقى</string>
+    <string name="music_storage_title">تخزين الموسيقى</string>
+    <string name="music_storage_summary">اختر موقع التخزين</string>
+    <string name="import_music_title_short">استيراد الموسيقى</string>
+    <string name="import_music_summary">نسخ الملفات من التخزين إلى مجلد الموسيقى</string>
+    <string name="auto_play_title">التشغيل التلقائي</string>
+    <string name="auto_play_summary">بدء التشغيل تلقائيًا عند الإطلاق</string>
+    <string name="repeat_mode_title">تكرار</string>
+    <string name="repeat_mode_summary">تكرار المقطع الحالي</string>
+    <string name="manage_blacklist_title">القائمة السوداء</string>
+    <string name="manage_blacklist_summary">إدارة الملفات والمجلدات المتخطاة</string>
+    <string name="remember_track_position_title">تذكر موضع المقطع</string>
+    <string name="remember_track_position_summary">استئناف من آخر موضع</string>
+    <string name="play_on_ignition_title">تشغيل عند الإشعال</string>
+    <string name="play_on_ignition_summary">تشغيل تلقائي عند إيقاظ الشاشة</string>
+    <string name="play_when_app_closed_title">تشغيل عند إغلاق التطبيق</string>
+    <string name="play_when_app_closed_summary">متابعة التشغيل بعد إغلاق التطبيق</string>
+    <string name="operation_mode_title">وضع التشغيل</string>
+    <string name="operation_mode_summary">هاتف / سيارة</string>
+    <string name="mode_phone">هاتف</string>
+    <string name="mode_car">سيارة</string>
+
+    <string name="dir_music_standard">الموسيقى (قياسي)</string>
+    <string name="dir_downloads">التنزيلات</string>
+    <string name="dir_internal_storage">التخزين الداخلي</string>
+    <string name="dir_sd_card">بطاقة SD</string>
+    <string name="dir_custom">تحديد يدوي</string>
+
+    <string name="no_track_playing">لا يوجد مقطع قيد التشغيل</string>
+    <string name="folder_none">المجلد: لا يوجد</string>
+    <string name="ready">جاهز</string>
+    <string name="statistics">إحصائيات</string>
+    <string name="statistics_formatted" formatted="false">تم العثور على %d مقطعًا في %d مجلدًا</string>
+    <string name="scan_complete">اكتمل الفحص</string>
+    <string name="scan_error" formatted="false">خطأ في الفحص: %s</string>
+    <string name="random_button_none">عشوائي: إيقاف</string>
+    <string name="random_button_in_folder">عشوائي: في المجلد</string>
+    <string name="random_button_everywhere">عشوائي: في كل مكان</string>
+    <string name="time_zero">00:00</string>
+    <string name="time_remaining_zero">-00:00</string>
+    <string name="default_version">1.0.0</string>
+    <string name="debug_message_format">%1$s: %2$s\n%3$s</string>
+    <string name="author_name">LYM Soft</string>
+    <string name="time_remaining_format">-%1$s</string>
+
+    <string name="permission_required">مطلوب إذن للوصول إلى الملفات</string>
+    <string name="no_tracks_to_play">لا توجد مقاطع للتشغيل</string>
+    <string name="playback_paused">تم إيقاف التشغيل مؤقتًا</string>
+    <string name="playback_resumed">تم استئناف التشغيل</string>
+    <string name="going_to_first_track">الانتقال إلى المقطع الأول</string>
+    <string name="going_to_last_track">الانتقال إلى المقطع الأخير</string>
+    <string name="going_to_first_folder">الانتقال إلى المجلد الأول</string>
+    <string name="going_to_last_folder">الانتقال إلى المجلد الأخير</string>
+    <string name="sound_on">الصوت مفعّل</string>
+    <string name="sound_off">الصوت معطّل</string>
+    <string name="stop_text">إيقاف</string>
+    <string name="no_current_track">لا يوجد مقطع حالي</string>
+    <string name="track_added_to_blacklist" formatted="false">تمت إضافة المقطع \'%s\' إلى القائمة السوداء</string>
+    <string name="no_current_folder">لا يوجد مجلد حالي</string>
+    <string name="folder_added_to_blacklist" formatted="false">تمت إضافة المجلد \'%s\' إلى القائمة السوداء</string>
+
+    <string name="blacklist_empty">القائمة السوداء فارغة</string>
+    <string name="remove_from_blacklist" formatted="false">تمت الإزالة من القائمة السوداء: %s</string>
+    <string name="confirm_deletion_title">تأكيد الحذف</string>
+    <string name="confirm_delete_file" formatted="false">هل أنت متأكد من حذف الملف \'%s\'؟</string>
+    <string name="confirm_delete_folder" formatted="false">هل أنت متأكد من حذف المجلد \'%s\'؟\nيحتوي على %d ملفات.</string>
+    <string name="delete_action">حذف</string>
+    <string name="cancel_action">إلغاء</string>
+    <string name="file_deleted" formatted="false">تم حذف الملف: %s</string>
+    <string name="folder_deleted" formatted="false">تم حذف المجلد: %s</string>
+    <string name="delete_failed">فشل حذف الملف/المجلد</string>
+    <string name="return_action">استعادة</string>
+    <string name="destroy_action">تدمير</string>
+
+    <string name="import_select_storage_first">اختر أولاً تخزين الموسيقى في الإعدادات</string>
+    <string name="import_cannot_match_storage_and_music">لا يمكن أن يتطابق تخزين الموسيقى مع مجلد الموسيقى</string>
+    <string name="import_cannot_be_nested" formatted="false">لا يمكن أن يكون تخزين الموسيقى داخل مجلد الموسيقى\n\nالتخزين: %s\nالموسيقى: %s</string>
+    <string name="import_cannot_be_nested_reverse" formatted="false">لا يمكن أن يكون مجلد الموسيقى داخل التخزين\n\nالموسيقى: %s\nالتخزين: %s</string>
+    <string name="import_scanning">جارٍ الفحص… </string>
+    <string name="import_storage_not_found">لم يتم العثور على التخزين</string>
+    <string name="import_storage_not_found_with_path" formatted="false">لم يتم العثور على التخزين: %s</string>
+    <string name="import_no_files_or_folders">لا توجد ملفات أو مجلدات للاستيراد</string>
+    <string name="import_already_exists" formatted="false">الملف/المجلد موجود بالفعل: %s</string>
+    <string name="import_copying" formatted="false">جارٍ النسخ: %s…</string>
+    <string name="import_success" formatted="false">تم النسخ بنجاح: %s</string>
+    <string name="import_error" formatted="false">خطأ في النسخ: %s</string>
+    <string name="import_load">استيراد</string>
+    <string name="import_back">رجوع</string>
+    <string name="import_cancel_copy">إلغاء</string>
+    <string name="import_continue_copy">متابعة</string>
+    <string name="BlackListItemDestroy">تدمير</string>
+    <string name="BlackListItemRestore">استعادة</string>
+    <string name="import_button_import">استيراد</string>
+    <string name="import_button_update">تحديث</string>
+    <string name="Import_btn_cancel">إلغاء</string>
+
+    <string name="playlists_title">قوائم التشغيل</string>
+    <string name="playlists_summary" formatted="false">الحالية: %s</string>
+    <string name="current_playlist_title">قائمة التشغيل الحالية</string>
+    <string name="current_playlist_summary" formatted="false">المحددة: %s</string>
+    <string name="playlist_switch_title">تبديل قائمة التشغيل</string>
+    <string name="playlist_switch_message" formatted="false">التبديل إلى \'%s\'؟</string>
+    <string name="playlist_switch_success" formatted="false">تم التبديل إلى قائمة التشغيل: %s</string>
+    <string name="playlist_create_title">إنشاء قائمة تشغيل</string>
+    <string name="playlist_create_hint">اسم قائمة التشغيل</string>
+    <string name="playlist_create_success" formatted="false">تم إنشاء قائمة التشغيل: %s</string>
+    <string name="playlist_create_auto" formatted="false">تم إنشاء قائمة التشغيل: %s</string>
+    <string name="playlist_exists_error">توجد بالفعل قائمة تشغيل بهذا الاسم</string>
+    <string name="playlist_rename_title">إعادة تسمية قائمة التشغيل</string>
+    <string name="playlist_rename_success" formatted="false">تمت إعادة تسمية قائمة التشغيل إلى: %s</string>
+    <string name="playlist_delete_title">حذف قائمة التشغيل</string>
+    <string name="playlist_delete_message" formatted="false">حذف \'%s\'؟</string>
+    <string name="playlist_delete_success" formatted="false">تم حذف قائمة التشغيل: %s</string>
+    <string name="playlist_delete_last_error">لا يمكن حذف آخر قائمة تشغيل</string>
+    <string name="playlist_sort_by_name">فرز حسب الاسم</string>
+    <string name="playlist_sort_by_modified">فرز حسب تاريخ التعديل</string>
+    <string name="playlist_sort_by_used">فرز حسب تاريخ الاستخدام</string>
+    <string name="playlist_sorted_by_name">تم الفرز حسب الاسم</string>
+    <string name="playlist_sorted_by_modified">تم الفرز حسب تاريخ التعديل</string>
+    <string name="playlist_sorted_by_used">تم الفرز حسب تاريخ الاستخدام</string>
+    <string name="playlist_empty">لا توجد قوائم تشغيل. اضغط + لإنشاء واحدة.</string>
+    <string name="playlist_modified_prefix">تم التعديل:</string>
+    <string name="playlist_used_prefix">تم الاستخدام:</string>
+    <string name="select_playlist">اختر قائمة تشغيل</string>
+    <string name="playlist_prefix">قائمة التشغيل:</string>
+    <string name="no_playlist">لم يتم اختيار قائمة تشغيل</string>
+    <string name="no_playlists_available">لا توجد قوائم تشغيل متاحة</string>
+    <string name="switch_action">تبديل</string>
+    <string name="edit_playlists">تعديل</string>
+    <string name="playlist_directory_prefix">المجلد: %1$s</string>
+    <string name="playlist_no_directory">لم يتم اختيار مجلد</string>
+    <string name="import_storage_not_found_path">لم يتم العثور على تخزين الاستيراد: %1$s</string>
+    <string name="import_item_folder_name">📁 %1$s</string>
+    <string name="track_position_format">[%1$d/%2$d] %3$s</string>
+    <string name="folder_position_format">[%1$d/%2$d] %3$s</string>
+    <string name="playlist_display_format">قائمة التشغيل: %1$s</string>
+    <string name="debug_ready_summary">جاهز - %1$d مقطعًا في %2$d مجلدًا</string>
+    <string name="playlist_modified_format">%1$s %2$s</string>
+    <string name="playlist_used_format">%1$s %2$s</string>
+</resources>

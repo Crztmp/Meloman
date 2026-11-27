@@ -1,0 +1,283 @@
+<!--
+  ~ Copyright (C) 2026 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="1200dp"
+    android:height="1200dp"
+    android:viewportWidth="1200"
+    android:viewportHeight="1200">
+
+
+    <!-- Строка 2 -->
+    <path
+        android:pathData="M141,415l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14zM240,415l0,13 -49,-0 -49,-0 0,-13 0,-13 49,-0 49,-0 0,13z"
+        android:fillColor="#FF4000"/>
+    <path
+        android:pathData="M250,415l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#FF4800"/>
+    <path
+        android:pathData="M359,415l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14zM458,415l0,13 -49,-0 -49,-0 0,-13 0,-13 49,-0 49,-0 0,13z"
+        android:fillColor="#FF5000"/>
+    <path
+        android:pathData="M468,415l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14zM567,415l0,13 -49,-0 -49,-0 0,-13 0,-13 49,-0 49,-0 0,13z"
+        android:fillColor="#FF5800"/>
+    <path
+        android:pathData="M577,415l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14zM676,415l0,13 -49,-0 -49,-0 0,-13 0,-13 49,-0 49,-0 0,13z"
+        android:fillColor="#FF6000"/>
+    <path
+        android:pathData="M686,415l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14zM785,415l0,13 -49,-0 -49,-0 0,-13 0,-13 49,-0 49,-0 0,13z"
+        android:fillColor="#FF6800"/>
+    <path
+        android:pathData="M795,415l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14zM894,415l0,13 -49,-0 -49,-0 0,-13 0,-13 49,-0 49,-0 0,13z"
+        android:fillColor="#FF7000"/>
+    <path
+        android:pathData="M904,415l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14zM1003,415l0,13 -49,-0 -49,-0 0,-13 0,-13 49,-0 49,-0 0,13z"
+        android:fillColor="#FF7800"/>
+
+    <!-- Строка 3 -->
+    <path
+        android:pathData="M141,448l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#FF8000"/>
+    <path
+        android:pathData="M250,448l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#FF8800"/>
+    <path
+        android:pathData="M359,448l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14zM458,448l0,13 -49,-0 -49,-0 0,-13 0,-13 49,-0 49,-0 0,13z"
+        android:fillColor="#FF9000"/>
+    <path
+        android:pathData="M468,448l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14zM567,448l0,13 -49,-0 -49,-0 0,-13 0,-13 49,-0 49,-0 0,13z"
+        android:fillColor="#FF9800"/>
+    <path
+        android:pathData="M577,448l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14zM676,448l0,13 -49,-0 -49,-0 0,-13 0,-13 49,-0 49,-0 0,13z"
+        android:fillColor="#FFA000"/>
+    <path
+        android:pathData="M686,448l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14zM785,448l0,13 -49,-0 -49,-0 0,-13 0,-13 49,-0 49,-0 0,13z"
+        android:fillColor="#FFA800"/>
+    <path
+        android:pathData="M795,448l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#FFB000"/>
+    <path
+        android:pathData="M904,448l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14zM1003,448l0,13 -49,-0 -49,-0 0,-13 0,-13 49,-0 49,-0 0,13z"
+        android:fillColor="#FFB800"/>
+
+    <!-- Строка 4 -->
+    <path
+        android:pathData="M141,481l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#FFC000"/>
+    <path
+        android:pathData="M250,481l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#FFC800"/>
+    <path
+        android:pathData="M359,481l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#FFD000"/>
+    <path
+        android:pathData="M468,481l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14zM567,481l0,13 -49,-0 -49,-0 0,-13 0,-13 49,-0 49,-0 0,13z"
+        android:fillColor="#FFD800"/>
+    <path
+        android:pathData="M577,481l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14zM676,481l0,13 -49,-0 -49,-0 0,-13 0,-13 49,-0 49,-0 0,13z"
+        android:fillColor="#FFE000"/>
+    <path
+        android:pathData="M686,481l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#FFE800"/>
+    <path
+        android:pathData="M795,481l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#FFF000"/>
+    <path
+        android:pathData="M904,481l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14zM1003,481l0,13 -49,-0 -49,-0 0,-13 0,-13 49,-0 49,-0 0,13z"
+        android:fillColor="#FFF800"/>
+
+    <!-- Строка 5 - Желтая -->
+    <path
+        android:pathData="M141,514l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#FFFF00"/>
+    <path
+        android:pathData="M250,514l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#FFFF00"/>
+    <path
+        android:pathData="M359,514l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#FFFF00"/>
+    <path
+        android:pathData="M468,514l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#FFFF00"/>
+    <path
+        android:pathData="M577,514l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14zM676,514l0,13 -49,-0 -49,-0 0,-13 0,-13 49,-0 49,-0 0,13z"
+        android:fillColor="#FFFF00"/>
+    <path
+        android:pathData="M686,514l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#FFFF00"/>
+    <path
+        android:pathData="M795,514l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#FFFF00"/>
+    <path
+        android:pathData="M904,514l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#FFFF00"/>
+
+    <!-- Строка 6 -->
+    <path
+        android:pathData="M141,547l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#F8FF00"/>
+    <path
+        android:pathData="M250,547l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#F0FF00"/>
+    <path
+        android:pathData="M359,547l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#E8FF00"/>
+    <path
+        android:pathData="M468,547l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#E0FF00"/>
+    <path
+        android:pathData="M577,547l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#D8FF00"/>
+    <path
+        android:pathData="M686,547l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#D0FF00"/>
+    <path
+        android:pathData="M795,547l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#C8FF00"/>
+    <path
+        android:pathData="M904,547l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#C0FF00"/>
+
+    <!-- Строка 7 -->
+    <path
+        android:pathData="M141,580l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#B8FF00"/>
+    <path
+        android:pathData="M250,580l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#B0FF00"/>
+    <path
+        android:pathData="M359,580l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#A8FF00"/>
+    <path
+        android:pathData="M468,580l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#A0FF00"/>
+    <path
+        android:pathData="M577,580l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#98FF00"/>
+    <path
+        android:pathData="M686,580l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#90FF00"/>
+    <path
+        android:pathData="M795,580l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#88FF00"/>
+    <path
+        android:pathData="M904,580l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#80FF00"/>
+
+    <!-- Строка 8 -->
+    <path
+        android:pathData="M141,613l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#78FF00"/>
+    <path
+        android:pathData="M250,613l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#70FF00"/>
+    <path
+        android:pathData="M359,613l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#68FF00"/>
+    <path
+        android:pathData="M468,613l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#60FF00"/>
+    <path
+        android:pathData="M577,613l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#58FF00"/>
+    <path
+        android:pathData="M686,613l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#50FF00"/>
+    <path
+        android:pathData="M795,613l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#48FF00"/>
+    <path
+        android:pathData="M904,613l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#40FF00"/>
+
+    <!-- Строка 9 -->
+    <path
+        android:pathData="M141,646l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#38FF00"/>
+    <path
+        android:pathData="M250,646l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#30FF00"/>
+    <path
+        android:pathData="M359,646l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#28FF00"/>
+    <path
+        android:pathData="M468,646l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#20FF00"/>
+    <path
+        android:pathData="M577,646l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#18FF00"/>
+    <path
+        android:pathData="M686,646l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#10FF00"/>
+    <path
+        android:pathData="M795,646l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#08FF00"/>
+    <path
+        android:pathData="M904,646l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#00FF00"/>
+
+    <!-- Строка 10 -->
+    <path
+        android:pathData="M141,679l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#00FF00"/>
+    <path
+        android:pathData="M250,679l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#00FF00"/>
+    <path
+        android:pathData="M359,679l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#00FF00"/>
+    <path
+        android:pathData="M468,679l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#00FF00"/>
+    <path
+        android:pathData="M577,679l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#00FF00"/>
+    <path
+        android:pathData="M686,679l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#00FF00"/>
+    <path
+        android:pathData="M795,679l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#00FF00"/>
+    <path
+        android:pathData="M904,679l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#00FF00"/>
+
+    <!-- Строки 11-14 (самые нижние) - Зеленые -->
+    <path
+        android:pathData="M141,712l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#00FF00"/>
+    <path
+        android:pathData="M250,712l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#00FF00"/>
+    <path
+        android:pathData="M359,712l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#00FF00"/>
+    <path
+        android:pathData="M468,712l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#00FF00"/>
+    <path
+        android:pathData="M577,712l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#00FF00"/>
+    <path
+        android:pathData="M686,712l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#00FF00"/>
+    <path
+        android:pathData="M795,712l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#00FF00"/>
+    <path
+        android:pathData="M904,712l0,14 50,-0 50,-0 0,-14 0,-14 -50,-0 -50,-0 0,14z"
+        android:fillColor="#00FF00"/>
+
+</vector>

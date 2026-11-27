@@ -1,0 +1,14 @@
+.gitignore
+.gitignoreadd
+\.gradle\
+.idea
+\app\src\test\
+\MelomanProApp\src\test\
+\app\build\
+\MelomanProApp\build\
+ic_launcher.webp
+ic_launcher_round.webp
+.jar
+\build\reports\problems\
+.git\
+.txt

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meloman</string>
+
+    <string name="settings_title">Ayarlar</string>
+    <string name="blacklist_title">Kara liste</string>
+    <string name="import_music_title">Müzik içe aktar</string>
+    <string name="language_title">Dil</string>
+    <string name="language_summary">Uygulama dilini seçin</string>
+    <string name="language_english">İngilizce</string>
+    <string name="language_russian">Rusça</string>
+    <string name="language_restart_msg">Dil değiştirildi. Tüm değişiklikler için uygulamayı yeniden başlatın.</string>
+
+    <string name="theme_title">Tema</string>
+    <string name="theme_summary">Açık / Koyu / Sistem</string>
+    <string name="theme_light">Açık</string>
+    <string name="theme_dark">Koyu</string>
+    <string name="theme_system">Sistem</string>
+
+    <string name="random_title">Çalma listesi rastgele sırası</string>
+    <string name="random_summary">Yok / Klasörde / Her yerde</string>
+    <string name="random_none">Yok</string>
+    <string name="random_in_folder">Klasörde</string>
+    <string name="random_everywhere">Her yerde</string>
+
+    <string name="music_directory_title">Çalma listesi müzik klasörü</string>
+    <string name="music_directory_summary">Müzik klasörünü seçin</string>
+    <string name="music_storage_title">Müzik depolama</string>
+    <string name="music_storage_summary">Depolama konumunu seçin</string>
+    <string name="import_music_title_short">Müzik içe aktar</string>
+    <string name="import_music_summary">Dosyaları depolamadan müzik klasörüne kopyala</string>
+    <string name="auto_play_title">Otomatik çal</string>
+    <string name="auto_play_summary">Başlangıçta çalmayı otomatik başlat</string>
+    <string name="repeat_mode_title">Tekrarla</string>
+    <string name="repeat_mode_summary">Geçerli parçayı tekrarla</string>
+    <string name="manage_blacklist_title">Kara liste</string>
+    <string name="manage_blacklist_summary">Atlanan dosya ve klasörleri yönet</string>
+    <string name="remember_track_position_title">Parça konumunu hatırla</string>
+    <string name="remember_track_position_summary">Son konumdan devam et</string>
+    <string name="play_on_ignition_title">Kontakta çal</string>
+    <string name="play_on_ignition_summary">Ekran uyandığında otomatik çal</string>
+    <string name="play_when_app_closed_title">Uygulama kapalıyken çal</string>
+    <string name="play_when_app_closed_summary">Uygulama kapatıldıktan sonra çalmaya devam et</string>
+    <string name="operation_mode_title">Çalışma modu</string>
+    <string name="operation_mode_summary">Telefon / Araba</string>
+    <string name="mode_phone">Telefon</string>
+    <string name="mode_car">Araba</string>
+
+    <string name="dir_music_standard">Müzik (standart)</string>
+    <string name="dir_downloads">İndirilenler</string>
+    <string name="dir_internal_storage">Dahili depolama</string>
+    <string name="dir_sd_card">SD kart</string>
+    <string name="dir_custom">Elle seç</string>
+
+    <string name="no_track_playing">Parça çalmıyor</string>
+    <string name="folder_none">Klasör: yok</string>
+    <string name="ready">Hazır</string>
+    <string name="statistics">İstatistikler</string>
+    <string name="statistics_formatted" formatted="false">%d klasörde %d parça bulundu</string>
+    <string name="scan_complete">Tarama tamamlandı</string>
+    <string name="scan_error" formatted="false">Tarama hatası: %s</string>
+    <string name="random_button_none">Rastgele: kapalı</string>
+    <string name="random_button_in_folder">Rastgele: klasörde</string>
+    <string name="random_button_everywhere">Rastgele: her yerde</string>
+    <string name="time_zero">00:00</string>
+    <string name="time_remaining_zero">-00:00</string>
+    <string name="default_version">1.0.0</string>
+    <string name="debug_message_format">%1$s: %2$s\n%3$s</string>
+    <string name="author_name">LYM Soft</string>
+    <string name="time_remaining_format">-%1$s</string>
+
+    <string name="permission_required">Dosyalara erişim için izin gerekli</string>
+    <string name="no_tracks_to_play">Çalınacak parça yok</string>
+    <string name="playback_paused">Çalma duraklatıldı</string>
+    <string name="playback_resumed">Çalma devam etti</string>
+    <string name="going_to_first_track">İlk parçaya gidiliyor</string>
+    <string name="going_to_last_track">Son parçaya gidiliyor</string>
+    <string name="going_to_first_folder">İlk klasöre gidiliyor</string>
+    <string name="going_to_last_folder">Son klasöre gidiliyor</string>
+    <string name="sound_on">Ses açık</string>
+    <string name="sound_off">Ses kapalı</string>
+    <string name="stop_text">Durdur</string>
+    <string name="no_current_track">Geçerli parça yok</string>
+    <string name="track_added_to_blacklist" formatted="false">\'%s\' parçası kara listeye eklendi</string>
+    <string name="no_current_folder">Geçerli klasör yok</string>
+    <string name="folder_added_to_blacklist" formatted="false">\'%s\' klasörü kara listeye eklendi</string>
+
+    <string name="blacklist_empty">Kara liste boş</string>
+    <string name="remove_from_blacklist" formatted="false">Kara listeden kaldırıldı: %s</string>
+    <string name="confirm_deletion_title">Silmeyi onayla</string>
+    <string name="confirm_delete_file" formatted="false">\'%s\' dosyasını silmek istediğinizden emin misiniz?</string>
+    <string name="confirm_delete_folder" formatted="false">\'%s\' klasörünü silmek istediğinizden emin misiniz?\n%d dosya içeriyor.</string>
+    <string name="delete_action">Sil</string>
+    <string name="cancel_action">İptal</string>
+    <string name="file_deleted" formatted="false">Dosya silindi: %s</string>
+    <string name="folder_deleted" formatted="false">Klasör silindi: %s</string>
+    <string name="delete_failed">Dosya/klasör silinemedi</string>
+    <string name="return_action">Geri yükle</string>
+    <string name="destroy_action">Yok et</string>
+
+    <string name="import_select_storage_first">Önce ayarlardan müzik depolamayı seçin</string>
+    <string name="import_cannot_match_storage_and_music">Müzik depolama, müzik klasörüyle aynı olamaz</string>
+    <string name="import_cannot_be_nested" formatted="false">Müzik depolama, müzik klasörünün içinde olamaz\n\nDepolama: %s\nMüzik: %s</string>
+    <string name="import_cannot_be_nested_reverse" formatted="false">Müzik klasörü, depolamanın içinde olamaz\n\nMüzik: %s\nDepolama: %s</string>
+    <string name="import_scanning">Taranıyor… </string>
+    <string name="import_storage_not_found">Depolama bulunamadı</string>
+    <string name="import_storage_not_found_with_path" formatted="false">Depolama bulunamadı: %s</string>
+    <string name="import_no_files_or_folders">İçe aktarılacak dosya veya klasör yok</string>
+    <string name="import_already_exists" formatted="false">Dosya/klasör zaten var: %s</string>
+    <string name="import_copying" formatted="false">Kopyalanıyor: %s…</string>
+    <string name="import_success" formatted="false">Başarıyla kopyalandı: %s</string>
+    <string name="import_error" formatted="false">Kopyalama hatası: %s</string>
+    <string name="import_load">İçe aktar</string>
+    <string name="import_back">Geri</string>
+    <string name="import_cancel_copy">İptal</string>
+    <string name="import_continue_copy">Devam</string>
+    <string name="BlackListItemDestroy">Yok et</string>
+    <string name="BlackListItemRestore">Geri yükle</string>
+    <string name="import_button_import">İçe aktar</string>
+    <string name="import_button_update">Güncelle</string>
+    <string name="Import_btn_cancel">İptal</string>
+
+    <string name="playlists_title">Çalma listeleri</string>
+    <string name="playlists_summary" formatted="false">Geçerli: %s</string>
+    <string name="current_playlist_title">Geçerli çalma listesi</string>
+    <string name="current_playlist_summary" formatted="false">Seçili: %s</string>
+    <string name="playlist_switch_title">Çalma listesini değiştir</string>
+    <string name="playlist_switch_message" formatted="false">\'%s\' listesine geçilsin mi?</string>
+    <string name="playlist_switch_success" formatted="false">Çalma listesine geçildi: %s</string>
+    <string name="playlist_create_title">Çalma listesi oluştur</string>
+    <string name="playlist_create_hint">Çalma listesi adı</string>
+    <string name="playlist_create_success" formatted="false">Çalma listesi oluşturuldu: %s</string>
+    <string name="playlist_create_auto" formatted="false">Çalma listesi oluşturuldu: %s</string>
+    <string name="playlist_exists_error">Bu ada sahip bir çalma listesi zaten var</string>
+    <string name="playlist_rename_title">Çalma listesini yeniden adlandır</string>
+    <string name="playlist_rename_success" formatted="false">Çalma listesi yeniden adlandırıldı: %s</string>
+    <string name="playlist_delete_title">Çalma listesini sil</string>
+    <string name="playlist_delete_message" formatted="false">\'%s\' silinsin mi?</string>
+    <string name="playlist_delete_success" formatted="false">Çalma listesi silindi: %s</string>
+    <string name="playlist_delete_last_error">Son çalma listesi silinemez</string>
+    <string name="playlist_sort_by_name">Ada göre sırala</string>
+    <string name="playlist_sort_by_modified">Değiştirme tarihine göre sırala</string>
+    <string name="playlist_sort_by_used">Kullanım tarihine göre sırala</string>
+    <string name="playlist_sorted_by_name">Ada göre sıralandı</string>
+    <string name="playlist_sorted_by_modified">Değiştirme tarihine göre sıralandı</string>
+    <string name="playlist_sorted_by_used">Kullanım tarihine göre sıralandı</string>
+    <string name="playlist_empty">Çalma listesi yok. Oluşturmak için + simgesine dokunun.</string>
+    <string name="playlist_modified_prefix">Değiştirildi:</string>
+    <string name="playlist_used_prefix">Kullanıldı:</string>
+    <string name="select_playlist">Çalma listesi seç</string>
+    <string name="playlist_prefix">Çalma listesi:</string>
+    <string name="no_playlist">Çalma listesi seçilmedi</string>
+    <string name="no_playlists_available">Kullanılabilir çalma listesi yok</string>
+    <string name="switch_action">Değiştir</string>
+    <string name="edit_playlists">Düzenle</string>
+    <string name="playlist_directory_prefix">Klasör: %1$s</string>
+    <string name="playlist_no_directory">Klasör seçilmedi</string>
+    <string name="import_storage_not_found_path">İçe aktarma depolaması bulunamadı: %1$s</string>
+    <string name="import_item_folder_name">📁 %1$s</string>
+    <string name="track_position_format">[%1$d/%2$d] %3$s</string>
+    <string name="folder_position_format">[%1$d/%2$d] %3$s</string>
+    <string name="playlist_display_format">Çalma listesi: %1$s</string>
+    <string name="debug_ready_summary">Hazır - %1$d parça, %2$d klasörde</string>
+    <string name="playlist_modified_format">%1$s %2$s</string>
+    <string name="playlist_used_format">%1$s %2$s</string>
+</resources>

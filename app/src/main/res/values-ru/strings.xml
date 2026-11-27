@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meloman</string>
+
+    <string name="settings_title">Настройки</string>
+    <string name="blacklist_title">Чёрный список</string>
+    <string name="import_music_title">Импорт музыки</string>
+    <string name="language_title">Язык</string>
+    <string name="language_summary">Выберите язык приложения</string>
+    <string name="language_english">Английский</string>
+    <string name="language_russian">Русский</string>
+    <string name="language_restart_msg">Язык изменён. Перезапустите приложение для применения всех изменений.</string>
+
+    <string name="theme_title">Тема</string>
+    <string name="theme_summary">Светлая / Тёмная / Системная</string>
+    <string name="theme_light">Светлая</string>
+    <string name="theme_dark">Тёмная</string>
+    <string name="theme_system">Системная</string>
+
+    <string name="random_title">Случайный порядок плейлиста</string>
+    <string name="random_summary">Нет / В папке / Везде</string>
+    <string name="random_none">Нет</string>
+    <string name="random_in_folder">В папке</string>
+    <string name="random_everywhere">Везде</string>
+
+    <string name="music_directory_title">Каталог музыки плейлиста</string>
+    <string name="music_directory_summary">Выберите папку с музыкой</string>
+    <string name="music_storage_title">Хранилище музыки</string>
+    <string name="music_storage_summary">Выберите место хранения</string>
+    <string name="import_music_title_short">Импорт музыки</string>
+    <string name="import_music_summary">Копировать файлы из хранилища в папку музыки</string>
+    <string name="auto_play_title">Автовоспроизведение</string>
+    <string name="auto_play_summary">Автоматически начинать воспроизведение при запуске</string>
+    <string name="repeat_mode_title">Повтор</string>
+    <string name="repeat_mode_summary">Повторять текущий трек</string>
+    <string name="manage_blacklist_title">Чёрный список</string>
+    <string name="manage_blacklist_summary">Управление пропускаемыми файлами и папками</string>
+    <string name="remember_track_position_title">Запоминать позицию трека</string>
+    <string name="remember_track_position_summary">Продолжать воспроизведение с последней позиции</string>
+    <string name="play_on_ignition_title">Играть при зажигании</string>
+    <string name="play_on_ignition_summary">Автовоспроизведение при включении экрана</string>
+    <string name="play_when_app_closed_title">Играть при закрытом приложении</string>
+    <string name="play_when_app_closed_summary">Продолжать воспроизведение после закрытия приложения</string>
+    <string name="operation_mode_title">Режим работы</string>
+    <string name="operation_mode_summary">Телефон / Автомобиль</string>
+    <string name="mode_phone">Телефон</string>
+    <string name="mode_car">Автомобиль</string>
+
+    <string name="dir_music_standard">Музыка (стандартная)</string>
+    <string name="dir_downloads">Загрузки</string>
+    <string name="dir_internal_storage">Внутренняя память</string>
+    <string name="dir_sd_card">SD-карта</string>
+    <string name="dir_custom">Выбрать вручную</string>
+
+    <string name="no_track_playing">Трек не воспроизводится</string>
+    <string name="folder_none">Папка: нет</string>
+    <string name="ready">Готово</string>
+    <string name="statistics">Статистика</string>
+    <string name="statistics_formatted" formatted="false">Найдено %d треков в %d папках</string>
+    <string name="scan_complete">Сканирование завершено</string>
+    <string name="scan_error" formatted="false">Ошибка сканирования: %s</string>
+    <string name="random_button_none">Случайно: выкл</string>
+    <string name="random_button_in_folder">Случайно: в папке</string>
+    <string name="random_button_everywhere">Случайно: везде</string>
+    <string name="time_zero">00:00</string>
+    <string name="time_remaining_zero">-00:00</string>
+    <string name="default_version">1.0.0</string>
+    <string name="debug_message_format">%1$s: %2$s\n%3$s</string>
+    <string name="author_name">LYM Soft</string>
+    <string name="time_remaining_format">-%1$s</string>
+
+    <string name="permission_required">Требуется разрешение для доступа к файлам</string>
+    <string name="no_tracks_to_play">Нет треков для воспроизведения</string>
+    <string name="playback_paused">Воспроизведение приостановлено</string>
+    <string name="playback_resumed">Воспроизведение возобновлено</string>
+    <string name="going_to_first_track">Переход к первому треку</string>
+    <string name="going_to_last_track">Переход к последнему треку</string>
+    <string name="going_to_first_folder">Переход к первой папке</string>
+    <string name="going_to_last_folder">Переход к последней папке</string>
+    <string name="sound_on">Звук включён</string>
+    <string name="sound_off">Звук выключен</string>
+    <string name="stop_text">Стоп</string>
+    <string name="no_current_track">Нет текущего трека</string>
+    <string name="track_added_to_blacklist" formatted="false">Трек \'%s\' добавлен в чёрный список</string>
+    <string name="no_current_folder">Нет текущей папки</string>
+    <string name="folder_added_to_blacklist" formatted="false">Папка \'%s\' добавлена в чёрный список</string>
+
+    <string name="blacklist_empty">Чёрный список пуст</string>
+    <string name="remove_from_blacklist" formatted="false">Удалено из чёрного списка: %s</string>
+    <string name="confirm_deletion_title">Подтвердите удаление</string>
+    <string name="confirm_delete_file" formatted="false">Вы уверены, что хотите удалить файл \'%s\'?</string>
+    <string name="confirm_delete_folder" formatted="false">Вы уверены, что хотите удалить папку \'%s\'?\nОна содержит %d файлов.</string>
+    <string name="delete_action">Удалить</string>
+    <string name="cancel_action">Отмена</string>
+    <string name="file_deleted" formatted="false">Файл удалён: %s</string>
+    <string name="folder_deleted" formatted="false">Папка удалена: %s</string>
+    <string name="delete_failed">Не удалось удалить файл/папку</string>
+    <string name="return_action">Восстановить</string>
+    <string name="destroy_action">Уничтожить</string>
+
+    <string name="import_select_storage_first">Сначала выберите хранилище музыки в настройках</string>
+    <string name="import_cannot_match_storage_and_music">Хранилище музыки не может совпадать с папкой музыки</string>
+    <string name="import_cannot_be_nested" formatted="false">Хранилище музыки не может быть внутри папки музыки\n\nХранилище: %s\nМузыка: %s</string>
+    <string name="import_cannot_be_nested_reverse" formatted="false">Папка музыки не может быть внутри хранилища\n\nМузыка: %s\nХранилище: %s</string>
+    <string name="import_scanning">Сканирование… </string>
+    <string name="import_storage_not_found">Хранилище не найдено</string>
+    <string name="import_storage_not_found_with_path" formatted="false">Хранилище не найдено: %s</string>
+    <string name="import_no_files_or_folders">Нет файлов или папок для импорта</string>
+    <string name="import_already_exists" formatted="false">Файл/папка уже существует: %s</string>
+    <string name="import_copying" formatted="false">Копирование: %s…</string>
+    <string name="import_success" formatted="false">Успешно скопировано: %s</string>
+    <string name="import_error" formatted="false">Ошибка копирования: %s</string>
+    <string name="import_load">Импорт</string>
+    <string name="import_back">Назад</string>
+    <string name="import_cancel_copy">Отмена</string>
+    <string name="import_continue_copy">Продолжить</string>
+    <string name="BlackListItemDestroy">Уничтожить</string>
+    <string name="BlackListItemRestore">Восстановить</string>
+    <string name="import_button_import">Импорт</string>
+    <string name="import_button_update">Обновить</string>
+    <string name="Import_btn_cancel">Отмена</string>
+
+    <string name="playlists_title">Плейлисты</string>
+    <string name="playlists_summary" formatted="false">Текущий: %s</string>
+    <string name="current_playlist_title">Текущий плейлист</string>
+    <string name="current_playlist_summary" formatted="false">Выбран: %s</string>
+    <string name="playlist_switch_title">Переключить плейлист</string>
+    <string name="playlist_switch_message" formatted="false">Переключиться на \'%s\'?</string>
+    <string name="playlist_switch_success" formatted="false">Переключено на плейлист: %s</string>
+    <string name="playlist_create_title">Создать плейлист</string>
+    <string name="playlist_create_hint">Название плейлиста</string>
+    <string name="playlist_create_success" formatted="false">Плейлист создан: %s</string>
+    <string name="playlist_create_auto" formatted="false">Плейлист создан: %s</string>
+    <string name="playlist_exists_error">Плейлист с таким именем уже существует</string>
+    <string name="playlist_rename_title">Переименовать плейлист</string>
+    <string name="playlist_rename_success" formatted="false">Плейлист переименован в: %s</string>
+    <string name="playlist_delete_title">Удалить плейлист</string>
+    <string name="playlist_delete_message" formatted="false">Удалить \'%s\'?</string>
+    <string name="playlist_delete_success" formatted="false">Плейлист удалён: %s</string>
+    <string name="playlist_delete_last_error">Нельзя удалить последний плейлист</string>
+    <string name="playlist_sort_by_name">Сортировать по имени</string>
+    <string name="playlist_sort_by_modified">Сортировать по дате изменения</string>
+    <string name="playlist_sort_by_used">Сортировать по дате использования</string>
+    <string name="playlist_sorted_by_name">Отсортировано по имени</string>
+    <string name="playlist_sorted_by_modified">Отсортировано по дате изменения</string>
+    <string name="playlist_sorted_by_used">Отсортировано по дате использования</string>
+    <string name="playlist_empty">Нет плейлистов. Нажмите +, чтобы создать.</string>
+    <string name="playlist_modified_prefix">Изменён:</string>
+    <string name="playlist_used_prefix">Использован:</string>
+    <string name="select_playlist">Выбрать плейлист</string>
+    <string name="playlist_prefix">Плейлист:</string>
+    <string name="no_playlist">Плейлист не выбран</string>
+    <string name="no_playlists_available">Нет доступных плейлистов</string>
+    <string name="switch_action">Переключить</string>
+    <string name="edit_playlists">Изменить</string>
+    <string name="playlist_directory_prefix">Папка: %1$s</string>
+    <string name="playlist_no_directory">Папка не выбрана</string>
+    <string name="import_storage_not_found_path">Хранилище импорта не найдено: %1$s</string>
+    <string name="import_item_folder_name">📁 %1$s</string>
+    <string name="track_position_format">[%1$d/%2$d] %3$s</string>
+    <string name="folder_position_format">[%1$d/%2$d] %3$s</string>
+    <string name="playlist_display_format">Плейлист: %1$s</string>
+    <string name="debug_ready_summary">Готово - %1$d треков в %2$d папках</string>
+    <string name="playlist_modified_format">%1$s %2$s</string>
+    <string name="playlist_used_format">%1$s %2$s</string>
+</resources>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meloman</string>
+
+    <string name="settings_title">设置</string>
+    <string name="blacklist_title">黑名单</string>
+    <string name="import_music_title">导入音乐</string>
+    <string name="language_title">语言</string>
+    <string name="language_summary">选择应用语言</string>
+    <string name="language_english">英语</string>
+    <string name="language_russian">俄语</string>
+    <string name="language_restart_msg">语言已更改。请重启应用以应用所有更改。</string>
+
+    <string name="theme_title">主题</string>
+    <string name="theme_summary">浅色 / 深色 / 跟随系统</string>
+    <string name="theme_light">浅色</string>
+    <string name="theme_dark">深色</string>
+    <string name="theme_system">跟随系统</string>
+
+    <string name="random_title">播放列表随机顺序</string>
+    <string name="random_summary">无 / 文件夹内 / 全部</string>
+    <string name="random_none">无</string>
+    <string name="random_in_folder">文件夹内</string>
+    <string name="random_everywhere">全部</string>
+
+    <string name="music_directory_title">播放列表音乐目录</string>
+    <string name="music_directory_summary">选择音乐文件夹</string>
+    <string name="music_storage_title">音乐存储</string>
+    <string name="music_storage_summary">选择存储位置</string>
+    <string name="import_music_title_short">导入音乐</string>
+    <string name="import_music_summary">将文件从存储复制到音乐文件夹</string>
+    <string name="auto_play_title">自动播放</string>
+    <string name="auto_play_summary">启动时自动开始播放</string>
+    <string name="repeat_mode_title">重复</string>
+    <string name="repeat_mode_summary">重复当前曲目</string>
+    <string name="manage_blacklist_title">黑名单</string>
+    <string name="manage_blacklist_summary">管理跳过文件和文件夹</string>
+    <string name="remember_track_position_title">记住曲目位置</string>
+    <string name="remember_track_position_summary">从上次位置继续播放</string>
+    <string name="play_on_ignition_title">点火时播放</string>
+    <string name="play_on_ignition_summary">屏幕唤醒时自动播放</string>
+    <string name="play_when_app_closed_title">应用关闭时播放</string>
+    <string name="play_when_app_closed_summary">关闭应用后继续播放</string>
+    <string name="operation_mode_title">运行模式</string>
+    <string name="operation_mode_summary">手机 / 汽车</string>
+    <string name="mode_phone">手机</string>
+    <string name="mode_car">汽车</string>
+
+    <string name="dir_music_standard">音乐（标准）</string>
+    <string name="dir_downloads">下载</string>
+    <string name="dir_internal_storage">内部存储</string>
+    <string name="dir_sd_card">SD 卡</string>
+    <string name="dir_custom">手动选择</string>
+
+    <string name="no_track_playing">没有正在播放的曲目</string>
+    <string name="folder_none">文件夹：无</string>
+    <string name="ready">就绪</string>
+    <string name="statistics">统计</string>
+    <string name="statistics_formatted" formatted="false">在 %d 个文件夹中找到 %d 首曲目</string>
+    <string name="scan_complete">扫描完成</string>
+    <string name="scan_error" formatted="false">扫描错误：%s</string>
+    <string name="random_button_none">随机：关</string>
+    <string name="random_button_in_folder">随机：文件夹内</string>
+    <string name="random_button_everywhere">随机：全部</string>
+    <string name="time_zero">00:00</string>
+    <string name="time_remaining_zero">-00:00</string>
+    <string name="default_version">1.0.0</string>
+    <string name="debug_message_format">%1$s: %2$s\n%3$s</string>
+    <string name="author_name">LYM Soft</string>
+    <string name="time_remaining_format">-%1$s</string>
+
+    <string name="permission_required">需要权限才能访问文件</string>
+    <string name="no_tracks_to_play">没有可播放的曲目</string>
+    <string name="playback_paused">播放已暂停</string>
+    <string name="playback_resumed">播放已恢复</string>
+    <string name="going_to_first_track">跳到第一首曲目</string>
+    <string name="going_to_last_track">跳到最后一首曲目</string>
+    <string name="going_to_first_folder">跳到第一个文件夹</string>
+    <string name="going_to_last_folder">跳到最后一个文件夹</string>
+    <string name="sound_on">声音已开启</string>
+    <string name="sound_off">声音已关闭</string>
+    <string name="stop_text">停止</string>
+    <string name="no_current_track">没有当前曲目</string>
+    <string name="track_added_to_blacklist" formatted="false">曲目 \'%s\' 已加入黑名单</string>
+    <string name="no_current_folder">没有当前文件夹</string>
+    <string name="folder_added_to_blacklist" formatted="false">文件夹 \'%s\' 已加入黑名单</string>
+
+    <string name="blacklist_empty">黑名单为空</string>
+    <string name="remove_from_blacklist" formatted="false">已从黑名单移除：%s</string>
+    <string name="confirm_deletion_title">确认删除</string>
+    <string name="confirm_delete_file" formatted="false">确定要删除文件 \'%s\' 吗？</string>
+    <string name="confirm_delete_folder" formatted="false">确定要删除文件夹 \'%s\' 吗？\n它包含 %d 个文件。</string>
+    <string name="delete_action">删除</string>
+    <string name="cancel_action">取消</string>
+    <string name="file_deleted" formatted="false">文件已删除：%s</string>
+    <string name="folder_deleted" formatted="false">文件夹已删除：%s</string>
+    <string name="delete_failed">删除文件/文件夹失败</string>
+    <string name="return_action">恢复</string>
+    <string name="destroy_action">销毁</string>
+
+    <string name="import_select_storage_first">请先在设置中选择音乐存储</string>
+    <string name="import_cannot_match_storage_and_music">音乐存储不能与音乐文件夹相同</string>
+    <string name="import_cannot_be_nested" formatted="false">音乐存储不能位于音乐文件夹内\n\n存储：%s\n音乐：%s</string>
+    <string name="import_cannot_be_nested_reverse" formatted="false">音乐文件夹不能位于存储内\n\n音乐：%s\n存储：%s</string>
+    <string name="import_scanning">正在扫描… </string>
+    <string name="import_storage_not_found">未找到存储</string>
+    <string name="import_storage_not_found_with_path" formatted="false">未找到存储：%s</string>
+    <string name="import_no_files_or_folders">没有可导入的文件或文件夹</string>
+    <string name="import_already_exists" formatted="false">文件/文件夹已存在：%s</string>
+    <string name="import_copying" formatted="false">正在复制：%s…</string>
+    <string name="import_success" formatted="false">复制成功：%s</string>
+    <string name="import_error" formatted="false">复制错误：%s</string>
+    <string name="import_load">导入</string>
+    <string name="import_back">返回</string>
+    <string name="import_cancel_copy">取消</string>
+    <string name="import_continue_copy">继续</string>
+    <string name="BlackListItemDestroy">销毁</string>
+    <string name="BlackListItemRestore">恢复</string>
+    <string name="import_button_import">导入</string>
+    <string name="import_button_update">更新</string>
+    <string name="Import_btn_cancel">取消</string>
+
+    <string name="playlists_title">播放列表</string>
+    <string name="playlists_summary" formatted="false">当前：%s</string>
+    <string name="current_playlist_title">当前播放列表</string>
+    <string name="current_playlist_summary" formatted="false">已选择：%s</string>
+    <string name="playlist_switch_title">切换播放列表</string>
+    <string name="playlist_switch_message" formatted="false">切换到 \'%s\'？</string>
+    <string name="playlist_switch_success" formatted="false">已切换到播放列表：%s</string>
+    <string name="playlist_create_title">创建播放列表</string>
+    <string name="playlist_create_hint">播放列表名称</string>
+    <string name="playlist_create_success" formatted="false">播放列表已创建：%s</string>
+    <string name="playlist_create_auto" formatted="false">播放列表已创建：%s</string>
+    <string name="playlist_exists_error">已存在同名播放列表</string>
+    <string name="playlist_rename_title">重命名播放列表</string>
+    <string name="playlist_rename_success" formatted="false">播放列表已重命名为：%s</string>
+    <string name="playlist_delete_title">删除播放列表</string>
+    <string name="playlist_delete_message" formatted="false">删除 \'%s\'？</string>
+    <string name="playlist_delete_success" formatted="false">播放列表已删除：%s</string>
+    <string name="playlist_delete_last_error">无法删除最后一个播放列表</string>
+    <string name="playlist_sort_by_name">按名称排序</string>
+    <string name="playlist_sort_by_modified">按修改日期排序</string>
+    <string name="playlist_sort_by_used">按使用日期排序</string>
+    <string name="playlist_sorted_by_name">已按名称排序</string>
+    <string name="playlist_sorted_by_modified">已按修改日期排序</string>
+    <string name="playlist_sorted_by_used">已按使用日期排序</string>
+    <string name="playlist_empty">没有播放列表。点击 + 创建一个。</string>
+    <string name="playlist_modified_prefix">修改于：</string>
+    <string name="playlist_used_prefix">使用于：</string>
+    <string name="select_playlist">选择播放列表</string>
+    <string name="playlist_prefix">播放列表：</string>
+    <string name="no_playlist">未选择播放列表</string>
+    <string name="no_playlists_available">没有可用的播放列表</string>
+    <string name="switch_action">切换</string>
+    <string name="edit_playlists">编辑</string>
+    <string name="playlist_directory_prefix">文件夹：%1$s</string>
+    <string name="playlist_no_directory">未选择文件夹</string>
+    <string name="import_storage_not_found_path">未找到导入存储：%1$s</string>
+    <string name="import_item_folder_name">📁 %1$s</string>
+    <string name="track_position_format">[%1$d/%2$d] %3$s</string>
+    <string name="folder_position_format">[%1$d/%2$d] %3$s</string>
+    <string name="playlist_display_format">播放列表：%1$s</string>
+    <string name="debug_ready_summary">就绪 - %1$d 首曲目，%2$d 个文件夹</string>
+    <string name="playlist_modified_format">%1$s %2$s</string>
+    <string name="playlist_used_format">%1$s %2$s</string>
+</resources>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="language_entries">
+        <item>System</item>
+        <item>English</item>
+        <item>Русский</item>
+        <item>Deutsch</item>
+        <item>Español</item>
+        <item>Français</item>
+        <item>Italiano</item>
+        <item>Português</item>
+        <item>Polski</item>
+        <item>Українська</item>
+        <item>Türkçe</item>
+        <item>العربية</item>
+        <item>中文</item>
+        <item>日本語</item>
+        <item>한국어</item>
+        <item>हिन्दी</item>
+    </string-array>
+
+    <string-array name="language_values">
+        <item>System</item>
+        <item>en</item>
+        <item>ru</item>
+        <item>de</item>
+        <item>es</item>
+        <item>fr</item>
+        <item>it</item>
+        <item>pt</item>
+        <item>pl</item>
+        <item>uk</item>
+        <item>tr</item>
+        <item>ar</item>
+        <item>zh</item>
+        <item>ja</item>
+        <item>ko</item>
+        <item>hi</item>
+    </string-array>
+    <string-array name="theme_entries">
+        <item>@string/theme_light</item>
+        <item>@string/theme_dark</item>
+        <item>@string/theme_system</item>
+    </string-array>
+
+    <string-array name="theme_values">
+        <item>light</item>
+        <item>dark</item>
+        <item>system</item>
+    </string-array>
+
+    <string-array name="random_entries">
+        <item>@string/random_none</item>
+        <item>@string/random_in_folder</item>
+        <item>@string/random_everywhere</item>
+    </string-array>
+
+    <string-array name="random_values">
+        <item>none</item>
+        <item>in_folder</item>
+        <item>everywhere</item>
+    </string-array>
+
+    <string-array name="directory_entries">
+        <item>@string/dir_music_standard</item>
+        <item>@string/dir_downloads</item>
+        <item>@string/dir_internal_storage</item>
+        <item>@string/dir_sd_card</item>
+        <item>@string/dir_custom</item>
+    </string-array>
+
+    <string-array name="directory_values">
+        <item>/storage/emulated/0/Music</item>
+        <item>/storage/emulated/0/Download</item>
+        <item>/storage/emulated/0</item>
+        <item>/storage/sdcard1/Music</item>
+        <item>custom</item>
+    </string-array>
+    <string-array name="mode_entries">
+        <item>@string/mode_phone</item>
+        <item>@string/mode_car</item>
+    </string-array>
+
+    <string-array name="mode_values">
+        <item>phone</item>
+        <item>car</item>
+    </string-array>
+
+</resources>

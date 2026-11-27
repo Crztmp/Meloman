@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meloman</string>
+
+    <string name="settings_title">設定</string>
+    <string name="blacklist_title">ブラックリスト</string>
+    <string name="import_music_title">音楽をインポート</string>
+    <string name="language_title">言語</string>
+    <string name="language_summary">アプリの言語を選択</string>
+    <string name="language_english">英語</string>
+    <string name="language_russian">ロシア語</string>
+    <string name="language_restart_msg">言語を変更しました。すべての変更を適用するにはアプリを再起動してください。</string>
+
+    <string name="theme_title">テーマ</string>
+    <string name="theme_summary">ライト / ダーク / システム</string>
+    <string name="theme_light">ライト</string>
+    <string name="theme_dark">ダーク</string>
+    <string name="theme_system">システム</string>
+
+    <string name="random_title">プレイリストのランダム順序</string>
+    <string name="random_summary">なし / フォルダ内 / 全体</string>
+    <string name="random_none">なし</string>
+    <string name="random_in_folder">フォルダ内</string>
+    <string name="random_everywhere">全体</string>
+
+    <string name="music_directory_title">プレイリストの音楽フォルダ</string>
+    <string name="music_directory_summary">音楽フォルダを選択</string>
+    <string name="music_storage_title">音楽ストレージ</string>
+    <string name="music_storage_summary">保存場所を選択</string>
+    <string name="import_music_title_short">音楽をインポート</string>
+    <string name="import_music_summary">ストレージから音楽フォルダにファイルをコピー</string>
+    <string name="auto_play_title">自動再生</string>
+    <string name="auto_play_summary">起動時に自動的に再生を開始</string>
+    <string name="repeat_mode_title">リピート</string>
+    <string name="repeat_mode_summary">現在のトラックをリピート</string>
+    <string name="manage_blacklist_title">ブラックリスト</string>
+    <string name="manage_blacklist_summary">スキップするファイルとフォルダを管理</string>
+    <string name="remember_track_position_title">トラック位置を記憶</string>
+    <string name="remember_track_position_summary">最後の位置から再開</string>
+    <string name="play_on_ignition_title">イグニッションで再生</string>
+    <string name="play_on_ignition_summary">画面起動時に自動再生</string>
+    <string name="play_when_app_closed_title">アプリ終了時に再生</string>
+    <string name="play_when_app_closed_summary">アプリ終了後も再生を継続</string>
+    <string name="operation_mode_title">動作モード</string>
+    <string name="operation_mode_summary">スマートフォン / カー</string>
+    <string name="mode_phone">スマートフォン</string>
+    <string name="mode_car">カー</string>
+
+    <string name="dir_music_standard">音楽（標準）</string>
+    <string name="dir_downloads">ダウンロード</string>
+    <string name="dir_internal_storage">内部ストレージ</string>
+    <string name="dir_sd_card">SD カード</string>
+    <string name="dir_custom">手動で選択</string>
+
+    <string name="no_track_playing">再生中のトラックはありません</string>
+    <string name="folder_none">フォルダ：なし</string>
+    <string name="ready">準備完了</string>
+    <string name="statistics">統計</string>
+    <string name="statistics_formatted" formatted="false">%d 個のフォルダに %d 個のトラックが見つかりました</string>
+    <string name="scan_complete">スキャン完了</string>
+    <string name="scan_error" formatted="false">スキャンエラー：%s</string>
+    <string name="random_button_none">ランダム：オフ</string>
+    <string name="random_button_in_folder">ランダム：フォルダ内</string>
+    <string name="random_button_everywhere">ランダム：全体</string>
+    <string name="time_zero">00:00</string>
+    <string name="time_remaining_zero">-00:00</string>
+    <string name="default_version">1.0.0</string>
+    <string name="debug_message_format">%1$s: %2$s\n%3$s</string>
+    <string name="author_name">LYM Soft</string>
+    <string name="time_remaining_format">-%1$s</string>
+
+    <string name="permission_required">ファイルへのアクセス権限が必要です</string>
+    <string name="no_tracks_to_play">再生するトラックがありません</string>
+    <string name="playback_paused">再生を一時停止しました</string>
+    <string name="playback_resumed">再生を再開しました</string>
+    <string name="going_to_first_track">最初のトラックへ</string>
+    <string name="going_to_last_track">最後のトラックへ</string>
+    <string name="going_to_first_folder">最初のフォルダへ</string>
+    <string name="going_to_last_folder">最後のフォルダへ</string>
+    <string name="sound_on">サウンドオン</string>
+    <string name="sound_off">サウンドオフ</string>
+    <string name="stop_text">停止</string>
+    <string name="no_current_track">現在のトラックはありません</string>
+    <string name="track_added_to_blacklist" formatted="false">トラック \'%s\' をブラックリストに追加しました</string>
+    <string name="no_current_folder">現在のフォルダはありません</string>
+    <string name="folder_added_to_blacklist" formatted="false">フォルダ \'%s\' をブラックリストに追加しました</string>
+
+    <string name="blacklist_empty">ブラックリストは空です</string>
+    <string name="remove_from_blacklist" formatted="false">ブラックリストから削除しました：%s</string>
+    <string name="confirm_deletion_title">削除の確認</string>
+    <string name="confirm_delete_file" formatted="false">ファイル \'%s\' を本当に削除しますか？</string>
+    <string name="confirm_delete_folder" formatted="false">フォルダ \'%s\' を本当に削除しますか？\n%d 個のファイルが含まれています。</string>
+    <string name="delete_action">削除</string>
+    <string name="cancel_action">キャンセル</string>
+    <string name="file_deleted" formatted="false">ファイルを削除しました：%s</string>
+    <string name="folder_deleted" formatted="false">フォルダを削除しました：%s</string>
+    <string name="delete_failed">ファイル/フォルダの削除に失敗しました</string>
+    <string name="return_action">復元</string>
+    <string name="destroy_action">破棄</string>
+
+    <string name="import_select_storage_first">まず設定で音楽ストレージを選択してください</string>
+    <string name="import_cannot_match_storage_and_music">音楽ストレージは音楽フォルダと同じにできません</string>
+    <string name="import_cannot_be_nested" formatted="false">音楽ストレージを音楽フォルダ内に置くことはできません\n\nストレージ：%s\n音楽：%s</string>
+    <string name="import_cannot_be_nested_reverse" formatted="false">音楽フォルダをストレージ内に置くことはできません\n\n音楽：%s\nストレージ：%s</string>
+    <string name="import_scanning">スキャン中… </string>
+    <string name="import_storage_not_found">ストレージが見つかりません</string>
+    <string name="import_storage_not_found_with_path" formatted="false">ストレージが見つかりません：%s</string>
+    <string name="import_no_files_or_folders">インポートするファイルやフォルダがありません</string>
+    <string name="import_already_exists" formatted="false">ファイル/フォルダは既に存在します：%s</string>
+    <string name="import_copying" formatted="false">コピー中：%s…</string>
+    <string name="import_success" formatted="false">正常にコピーしました：%s</string>
+    <string name="import_error" formatted="false">コピーエラー：%s</string>
+    <string name="import_load">インポート</string>
+    <string name="import_back">戻る</string>
+    <string name="import_cancel_copy">キャンセル</string>
+    <string name="import_continue_copy">続行</string>
+    <string name="BlackListItemDestroy">破棄</string>
+    <string name="BlackListItemRestore">復元</string>
+    <string name="import_button_import">インポート</string>
+    <string name="import_button_update">更新</string>
+    <string name="Import_btn_cancel">キャンセル</string>
+
+    <string name="playlists_title">プレイリスト</string>
+    <string name="playlists_summary" formatted="false">現在：%s</string>
+    <string name="current_playlist_title">現在のプレイリスト</string>
+    <string name="current_playlist_summary" formatted="false">選択中：%s</string>
+    <string name="playlist_switch_title">プレイリストを切り替え</string>
+    <string name="playlist_switch_message" formatted="false">\'%s\' に切り替えますか？</string>
+    <string name="playlist_switch_success" formatted="false">プレイリストを切り替えました：%s</string>
+    <string name="playlist_create_title">プレイリストを作成</string>
+    <string name="playlist_create_hint">プレイリスト名</string>
+    <string name="playlist_create_success" formatted="false">プレイリストを作成しました：%s</string>
+    <string name="playlist_create_auto" formatted="false">プレイリストを作成しました：%s</string>
+    <string name="playlist_exists_error">同じ名前のプレイリストが既に存在します</string>
+    <string name="playlist_rename_title">プレイリストの名前を変更</string>
+    <string name="playlist_rename_success" formatted="false">プレイリストの名前を変更しました：%s</string>
+    <string name="playlist_delete_title">プレイリストを削除</string>
+    <string name="playlist_delete_message" formatted="false">\'%s\' を削除しますか？</string>
+    <string name="playlist_delete_success" formatted="false">プレイリストを削除しました：%s</string>
+    <string name="playlist_delete_last_error">最後のプレイリストは削除できません</string>
+    <string name="playlist_sort_by_name">名前で並べ替え</string>
+    <string name="playlist_sort_by_modified">変更日で並べ替え</string>
+    <string name="playlist_sort_by_used">使用日で並べ替え</string>
+    <string name="playlist_sorted_by_name">名前で並べ替えました</string>
+    <string name="playlist_sorted_by_modified">変更日で並べ替えました</string>
+    <string name="playlist_sorted_by_used">使用日で並べ替えました</string>
+    <string name="playlist_empty">プレイリストがありません。+ をタップして作成してください。</string>
+    <string name="playlist_modified_prefix">変更：</string>
+    <string name="playlist_used_prefix">使用：</string>
+    <string name="select_playlist">プレイリストを選択</string>
+    <string name="playlist_prefix">プレイリスト：</string>
+    <string name="no_playlist">プレイリストが選択されていません</string>
+    <string name="no_playlists_available">利用可能なプレイリストがありません</string>
+    <string name="switch_action">切り替え</string>
+    <string name="edit_playlists">編集</string>
+    <string name="playlist_directory_prefix">フォルダ：%1$s</string>
+    <string name="playlist_no_directory">フォルダ未選択</string>
+    <string name="import_storage_not_found_path">インポートストレージが見つかりません：%1$s</string>
+    <string name="import_item_folder_name">📁 %1$s</string>
+    <string name="track_position_format">[%1$d/%2$d] %3$s</string>
+    <string name="folder_position_format">[%1$d/%2$d] %3$s</string>
+    <string name="playlist_display_format">プレイリスト：%1$s</string>
+    <string name="debug_ready_summary">準備完了 - %1$d トラック、%2$d フォルダ</string>
+    <string name="playlist_modified_format">%1$s %2$s</string>
+    <string name="playlist_used_format">%1$s %2$s</string>
+</resources>

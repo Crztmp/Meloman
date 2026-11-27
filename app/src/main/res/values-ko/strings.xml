@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meloman</string>
+
+    <string name="settings_title">설정</string>
+    <string name="blacklist_title">블랙리스트</string>
+    <string name="import_music_title">음악 가져오기</string>
+    <string name="language_title">언어</string>
+    <string name="language_summary">앱 언어 선택</string>
+    <string name="language_english">영어</string>
+    <string name="language_russian">러시아어</string>
+    <string name="language_restart_msg">언어가 변경되었습니다. 모든 변경 사항을 적용하려면 앱을 다시 시작하세요.</string>
+
+    <string name="theme_title">테마</string>
+    <string name="theme_summary">라이트 / 다크 / 시스템</string>
+    <string name="theme_light">라이트</string>
+    <string name="theme_dark">다크</string>
+    <string name="theme_system">시스템</string>
+
+    <string name="random_title">재생목록 무작위 순서</string>
+    <string name="random_summary">없음 / 폴더 내 / 전체</string>
+    <string name="random_none">없음</string>
+    <string name="random_in_folder">폴더 내</string>
+    <string name="random_everywhere">전체</string>
+
+    <string name="music_directory_title">재생목록 음악 폴더</string>
+    <string name="music_directory_summary">음악 폴더 선택</string>
+    <string name="music_storage_title">음악 저장소</string>
+    <string name="music_storage_summary">저장 위치 선택</string>
+    <string name="import_music_title_short">음악 가져오기</string>
+    <string name="import_music_summary">저장소에서 음악 폴더로 파일 복사</string>
+    <string name="auto_play_title">자동 재생</string>
+    <string name="auto_play_summary">시작 시 자동으로 재생 시작</string>
+    <string name="repeat_mode_title">반복</string>
+    <string name="repeat_mode_summary">현재 트랙 반복</string>
+    <string name="manage_blacklist_title">블랙리스트</string>
+    <string name="manage_blacklist_summary">건너뛸 파일 및 폴더 관리</string>
+    <string name="remember_track_position_title">트랙 위치 기억</string>
+    <string name="remember_track_position_summary">마지막 위치에서 재개</string>
+    <string name="play_on_ignition_title">시동 시 재생</string>
+    <string name="play_on_ignition_summary">화면이 깨어날 때 자동 재생</string>
+    <string name="play_when_app_closed_title">앱 종료 시 재생</string>
+    <string name="play_when_app_closed_summary">앱 종료 후에도 재생 계속</string>
+    <string name="operation_mode_title">동작 모드</string>
+    <string name="operation_mode_summary">휴대폰 / 자동차</string>
+    <string name="mode_phone">휴대폰</string>
+    <string name="mode_car">자동차</string>
+
+    <string name="dir_music_standard">음악 (표준)</string>
+    <string name="dir_downloads">다운로드</string>
+    <string name="dir_internal_storage">내부 저장소</string>
+    <string name="dir_sd_card">SD 카드</string>
+    <string name="dir_custom">수동 선택</string>
+
+    <string name="no_track_playing">재생 중인 트랙 없음</string>
+    <string name="folder_none">폴더: 없음</string>
+    <string name="ready">준비됨</string>
+    <string name="statistics">통계</string>
+    <string name="statistics_formatted" formatted="false">%d개 폴더에서 %d개 트랙 발견</string>
+    <string name="scan_complete">스캔 완료</string>
+    <string name="scan_error" formatted="false">스캔 오류: %s</string>
+    <string name="random_button_none">무작위: 꺼짐</string>
+    <string name="random_button_in_folder">무작위: 폴더 내</string>
+    <string name="random_button_everywhere">무작위: 전체</string>
+    <string name="time_zero">00:00</string>
+    <string name="time_remaining_zero">-00:00</string>
+    <string name="default_version">1.0.0</string>
+    <string name="debug_message_format">%1$s: %2$s\n%3$s</string>
+    <string name="author_name">LYM Soft</string>
+    <string name="time_remaining_format">-%1$s</string>
+
+    <string name="permission_required">파일에 액세스하려면 권한이 필요합니다</string>
+    <string name="no_tracks_to_play">재생할 트랙 없음</string>
+    <string name="playback_paused">재생 일시정지됨</string>
+    <string name="playback_resumed">재생 재개됨</string>
+    <string name="going_to_first_track">첫 번째 트랙으로 이동</string>
+    <string name="going_to_last_track">마지막 트랙으로 이동</string>
+    <string name="going_to_first_folder">첫 번째 폴더로 이동</string>
+    <string name="going_to_last_folder">마지막 폴더로 이동</string>
+    <string name="sound_on">소리 켜짐</string>
+    <string name="sound_off">소리 꺼짐</string>
+    <string name="stop_text">정지</string>
+    <string name="no_current_track">현재 트랙 없음</string>
+    <string name="track_added_to_blacklist" formatted="false">트랙 \'%s\'이(가) 블랙리스트에 추가되었습니다</string>
+    <string name="no_current_folder">현재 폴더 없음</string>
+    <string name="folder_added_to_blacklist" formatted="false">폴더 \'%s\'이(가) 블랙리스트에 추가되었습니다</string>
+
+    <string name="blacklist_empty">블랙리스트가 비어 있습니다</string>
+    <string name="remove_from_blacklist" formatted="false">블랙리스트에서 제거됨: %s</string>
+    <string name="confirm_deletion_title">삭제 확인</string>
+    <string name="confirm_delete_file" formatted="false">파일 \'%s\'을(를) 정말 삭제하시겠습니까?</string>
+    <string name="confirm_delete_folder" formatted="false">폴더 \'%s\'을(를) 정말 삭제하시겠습니까?\n%d개 파일이 포함되어 있습니다.</string>
+    <string name="delete_action">삭제</string>
+    <string name="cancel_action">취소</string>
+    <string name="file_deleted" formatted="false">파일 삭제됨: %s</string>
+    <string name="folder_deleted" formatted="false">폴더 삭제됨: %s</string>
+    <string name="delete_failed">파일/폴더 삭제 실패</string>
+    <string name="return_action">복원</string>
+    <string name="destroy_action">파괴</string>
+
+    <string name="import_select_storage_first">먼저 설정에서 음악 저장소를 선택하세요</string>
+    <string name="import_cannot_match_storage_and_music">음악 저장소는 음악 폴더와 같을 수 없습니다</string>
+    <string name="import_cannot_be_nested" formatted="false">음악 저장소는 음악 폴더 안에 있을 수 없습니다\n\n저장소: %s\n음악: %s</string>
+    <string name="import_cannot_be_nested_reverse" formatted="false">음악 폴더는 저장소 안에 있을 수 없습니다\n\n음악: %s\n저장소: %s</string>
+    <string name="import_scanning">스캔 중… </string>
+    <string name="import_storage_not_found">저장소를 찾을 수 없음</string>
+    <string name="import_storage_not_found_with_path" formatted="false">저장소를 찾을 수 없음: %s</string>
+    <string name="import_no_files_or_folders">가져올 파일이나 폴더가 없습니다</string>
+    <string name="import_already_exists" formatted="false">파일/폴더가 이미 존재합니다: %s</string>
+    <string name="import_copying" formatted="false">복사 중: %s…</string>
+    <string name="import_success" formatted="false">성공적으로 복사됨: %s</string>
+    <string name="import_error" formatted="false">복사 오류: %s</string>
+    <string name="import_load">가져오기</string>
+    <string name="import_back">뒤로</string>
+    <string name="import_cancel_copy">취소</string>
+    <string name="import_continue_copy">계속</string>
+    <string name="BlackListItemDestroy">파괴</string>
+    <string name="BlackListItemRestore">복원</string>
+    <string name="import_button_import">가져오기</string>
+    <string name="import_button_update">업데이트</string>
+    <string name="Import_btn_cancel">취소</string>
+
+    <string name="playlists_title">재생목록</string>
+    <string name="playlists_summary" formatted="false">현재: %s</string>
+    <string name="current_playlist_title">현재 재생목록</string>
+    <string name="current_playlist_summary" formatted="false">선택됨: %s</string>
+    <string name="playlist_switch_title">재생목록 전환</string>
+    <string name="playlist_switch_message" formatted="false">\'%s\' (으)로 전환하시겠습니까?</string>
+    <string name="playlist_switch_success" formatted="false">재생목록으로 전환됨: %s</string>
+    <string name="playlist_create_title">재생목록 만들기</string>
+    <string name="playlist_create_hint">재생목록 이름</string>
+    <string name="playlist_create_success" formatted="false">재생목록 생성됨: %s</string>
+    <string name="playlist_create_auto" formatted="false">재생목록 생성됨: %s</string>
+    <string name="playlist_exists_error">같은 이름의 재생목록이 이미 존재합니다</string>
+    <string name="playlist_rename_title">재생목록 이름 바꾸기</string>
+    <string name="playlist_rename_success" formatted="false">재생목록 이름 변경됨: %s</string>
+    <string name="playlist_delete_title">재생목록 삭제</string>
+    <string name="playlist_delete_message" formatted="false">\'%s\'을(를) 삭제하시겠습니까?</string>
+    <string name="playlist_delete_success" formatted="false">재생목록 삭제됨: %s</string>
+    <string name="playlist_delete_last_error">마지막 재생목록은 삭제할 수 없습니다</string>
+    <string name="playlist_sort_by_name">이름순 정렬</string>
+    <string name="playlist_sort_by_modified">수정일순 정렬</string>
+    <string name="playlist_sort_by_used">사용일순 정렬</string>
+    <string name="playlist_sorted_by_name">이름순으로 정렬됨</string>
+    <string name="playlist_sorted_by_modified">수정일순으로 정렬됨</string>
+    <string name="playlist_sorted_by_used">사용일순으로 정렬됨</string>
+    <string name="playlist_empty">재생목록이 없습니다. +를 눌러 만드세요.</string>
+    <string name="playlist_modified_prefix">수정됨:</string>
+    <string name="playlist_used_prefix">사용됨:</string>
+    <string name="select_playlist">재생목록 선택</string>
+    <string name="playlist_prefix">재생목록:</string>
+    <string name="no_playlist">재생목록이 선택되지 않음</string>
+    <string name="no_playlists_available">사용 가능한 재생목록 없음</string>
+    <string name="switch_action">전환</string>
+    <string name="edit_playlists">편집</string>
+    <string name="playlist_directory_prefix">폴더: %1$s</string>
+    <string name="playlist_no_directory">폴더 미선택</string>
+    <string name="import_storage_not_found_path">가져오기 저장소를 찾을 수 없음: %1$s</string>
+    <string name="import_item_folder_name">📁 %1$s</string>
+    <string name="track_position_format">[%1$d/%2$d] %3$s</string>
+    <string name="folder_position_format">[%1$d/%2$d] %3$s</string>
+    <string name="playlist_display_format">재생목록: %1$s</string>
+    <string name="debug_ready_summary">준비됨 - %1$d개 트랙, %2$d개 폴더</string>
+    <string name="playlist_modified_format">%1$s %2$s</string>
+    <string name="playlist_used_format">%1$s %2$s</string>
+</resources>

@@ -1,0 +1,83 @@
+<!-- файл: app/src/main/res/xml/preferences.xml -->
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:key="theme_mode"
+        android:title="@string/theme_title"
+        android:summary="@string/theme_summary"
+        android:entries="@array/theme_entries"
+        android:entryValues="@array/theme_values"
+        android:defaultValue="system" />
+    <ListPreference
+        android:key="language_code"
+        android:title="🌐 Language"
+
+        android:entries="@array/language_entries"
+        android:entryValues="@array/language_values"
+        android:defaultValue="system" />
+
+    <!-- Режим работы -->
+    <ListPreference
+        android:key="operation_mode"
+        android:title="@string/operation_mode_title"
+        android:summary="@string/operation_mode_summary"
+        android:entries="@array/mode_entries"
+        android:entryValues="@array/mode_values"
+        android:defaultValue="phone"
+        android:enabled="true" />
+
+    <!-- Основные настройки -->
+    <SwitchPreference
+        android:key="auto_play"
+        android:title="@string/auto_play_title"
+        android:summary="@string/auto_play_summary"
+        android:defaultValue="false" />
+
+    <SwitchPreference
+        android:key="remember_track_position"
+        android:title="@string/remember_track_position_title"
+        android:summary="@string/remember_track_position_summary"
+        android:defaultValue="false" />
+
+    <SwitchPreference
+        android:key="play_when_app_closed"
+        android:title="@string/play_when_app_closed_title"
+        android:summary="@string/play_when_app_closed_summary"
+        android:defaultValue="false" />
+
+    <Preference
+        android:key="playlist_manager"
+        android:title="@string/playlists_title"
+        android:summary="@string/playlists_summary" />
+    <Preference
+        android:key="music_directory"
+        android:title="@string/music_directory_title"
+        android:summary="@string/music_directory_summary" />
+    <ListPreference
+        android:key="random_mode"
+        android:title="@string/random_title"
+        android:summary="@string/random_summary"
+        android:entries="@array/random_entries"
+        android:entryValues="@array/random_values"
+        android:defaultValue="none" />
+
+    <Preference
+        android:key="music_storage"
+        android:title="@string/music_storage_title"
+        android:summary="@string/music_storage_summary" />
+
+    <Preference
+        android:key="import_music"
+        android:title="@string/import_music_title_short"
+        android:summary="@string/import_music_summary" />
+
+    <Preference
+        android:key="manage_blacklist"
+        android:title="@string/manage_blacklist_title"
+        android:summary="@string/manage_blacklist_summary" />
+
+    <SwitchPreference
+        android:key="debug_log"
+        android:title="Debug"
+        android:summary="Включить отладочное логирование"
+        android:defaultValue="false" />
+</PreferenceScreen>

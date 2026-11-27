@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_gray">#FF333333</color>
+    <color name="gray">#FF888888</color>
+    <color name="light_gray">#FFCCCCCC</color>
+    <color name="light_green">#FFaaFFaa</color>
+    <color name="dark_green">#FF228822</color>
+    <color name="dark_gray_80">#FF4D4D4D</color>
+    <color name="gray_60">#FF999999</color>
+
+    <color name="yellow_50">#FFF9F0</color>
+    <color name="yellow_100">#FFFCE8</color>
+    <color name="yellow_200">#FFF5C2</color>
+    <color name="yellow_300">#FFEE9B</color>
+    <color name="yellow_400">#FFE875</color>
+    <color name="yellow_500">#FFE14E</color>
+    <color name="yellow_600">#FFD700</color>
+    <color name="yellow_700">#FFC107</color>
+    <color name="yellow_800">#FFB300</color>
+    <color name="yellow_900">#FFFF6B</color>
+    <color name="yellow_A200">#FFFF8F</color>
+    <color name="yellow_A400">#FFFF00</color>
+    <color name="yellow_A700">#FFEA00</color>
+    <!-- Для темной темы -->
+    <color name="dark_background">#FF1A1A1A</color>
+    <color name="dark_surface">#FF2D2D2D</color>
+
+    <!-- Для светлой темы -->
+    <color name="light_background">#FFF5F5F5</color>
+    <color name="light_surface">#FFFFFFFF</color>
+</resources>

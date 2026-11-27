@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meloman</string>
+
+    <string name="settings_title">Налаштування</string>
+    <string name="blacklist_title">Чорний список</string>
+    <string name="import_music_title">Імпорт музики</string>
+    <string name="language_title">Мова</string>
+    <string name="language_summary">Виберіть мову застосунку</string>
+    <string name="language_english">Англійська</string>
+    <string name="language_russian">Російська</string>
+    <string name="language_restart_msg">Мову змінено. Перезапустіть застосунок для застосування змін.</string>
+
+    <string name="theme_title">Тема</string>
+    <string name="theme_summary">Світла / Темна / Системна</string>
+    <string name="theme_light">Світла</string>
+    <string name="theme_dark">Темна</string>
+    <string name="theme_system">Системна</string>
+
+    <string name="random_title">Випадковий порядок плейлиста</string>
+    <string name="random_summary">Немає / У папці / Скрізь</string>
+    <string name="random_none">Немає</string>
+    <string name="random_in_folder">У папці</string>
+    <string name="random_everywhere">Скрізь</string>
+
+    <string name="music_directory_title">Каталог музики плейлиста</string>
+    <string name="music_directory_summary">Виберіть папку з музикою</string>
+    <string name="music_storage_title">Сховище музики</string>
+    <string name="music_storage_summary">Виберіть місце зберігання</string>
+    <string name="import_music_title_short">Імпорт музики</string>
+    <string name="import_music_summary">Копіювати файли зі сховища до папки музики</string>
+    <string name="auto_play_title">Автовідтворення</string>
+    <string name="auto_play_summary">Автоматично починати відтворення при запуску</string>
+    <string name="repeat_mode_title">Повтор</string>
+    <string name="repeat_mode_summary">Повторювати поточний трек</string>
+    <string name="manage_blacklist_title">Чорний список</string>
+    <string name="manage_blacklist_summary">Керування пропущеними файлами та папками</string>
+    <string name="remember_track_position_title">Запам’ятовувати позицію треку</string>
+    <string name="remember_track_position_summary">Продовжувати з останньої позиції</string>
+    <string name="play_on_ignition_title">Грати при запалюванні</string>
+    <string name="play_on_ignition_summary">Автовідтворення при пробудженні екрана</string>
+    <string name="play_when_app_closed_title">Грати із закритим застосунком</string>
+    <string name="play_when_app_closed_summary">Продовжувати відтворення після закриття</string>
+    <string name="operation_mode_title">Режим роботи</string>
+    <string name="operation_mode_summary">Телефон / Автомобіль</string>
+    <string name="mode_phone">Телефон</string>
+    <string name="mode_car">Автомобіль</string>
+
+    <string name="dir_music_standard">Музика (стандартна)</string>
+    <string name="dir_downloads">Завантаження</string>
+    <string name="dir_internal_storage">Внутрішня пам’ять</string>
+    <string name="dir_sd_card">SD-карта</string>
+    <string name="dir_custom">Вибрати вручну</string>
+
+    <string name="no_track_playing">Трек не відтворюється</string>
+    <string name="folder_none">Папка: немає</string>
+    <string name="ready">Готово</string>
+    <string name="statistics">Статистика</string>
+    <string name="statistics_formatted" formatted="false">Знайдено %d треків у %d папках</string>
+    <string name="scan_complete">Сканування завершено</string>
+    <string name="scan_error" formatted="false">Помилка сканування: %s</string>
+    <string name="random_button_none">Випадково: викл</string>
+    <string name="random_button_in_folder">Випадково: у папці</string>
+    <string name="random_button_everywhere">Випадково: скрізь</string>
+    <string name="time_zero">00:00</string>
+    <string name="time_remaining_zero">-00:00</string>
+    <string name="default_version">1.0.0</string>
+    <string name="debug_message_format">%1$s: %2$s\n%3$s</string>
+    <string name="author_name">LYM Soft</string>
+    <string name="time_remaining_format">-%1$s</string>
+
+    <string name="permission_required">Потрібен дозвіл для доступу до файлів</string>
+    <string name="no_tracks_to_play">Немає треків для відтворення</string>
+    <string name="playback_paused">Відтворення призупинено</string>
+    <string name="playback_resumed">Відтворення відновлено</string>
+    <string name="going_to_first_track">Перехід до першого треку</string>
+    <string name="going_to_last_track">Перехід до останнього треку</string>
+    <string name="going_to_first_folder">Перехід до першої папки</string>
+    <string name="going_to_last_folder">Перехід до останньої папки</string>
+    <string name="sound_on">Звук увімкнено</string>
+    <string name="sound_off">Звук вимкнено</string>
+    <string name="stop_text">Стоп</string>
+    <string name="no_current_track">Немає поточного треку</string>
+    <string name="track_added_to_blacklist" formatted="false">Трек \'%s\' додано до чорного списку</string>
+    <string name="no_current_folder">Немає поточної папки</string>
+    <string name="folder_added_to_blacklist" formatted="false">Папку \'%s\' додано до чорного списку</string>
+
+    <string name="blacklist_empty">Чорний список порожній</string>
+    <string name="remove_from_blacklist" formatted="false">Видалено з чорного списку: %s</string>
+    <string name="confirm_deletion_title">Підтвердіть видалення</string>
+    <string name="confirm_delete_file" formatted="false">Ви впевнені, що хочете видалити файл \'%s\'?</string>
+    <string name="confirm_delete_folder" formatted="false">Ви впевнені, що хочете видалити папку \'%s\'?\nВона містить %d файлів.</string>
+    <string name="delete_action">Видалити</string>
+    <string name="cancel_action">Скасувати</string>
+    <string name="file_deleted" formatted="false">Файл видалено: %s</string>
+    <string name="folder_deleted" formatted="false">Папку видалено: %s</string>
+    <string name="delete_failed">Не вдалося видалити файл/папку</string>
+    <string name="return_action">Відновити</string>
+    <string name="destroy_action">Знищити</string>
+
+    <string name="import_select_storage_first">Спочатку виберіть сховище музики в налаштуваннях</string>
+    <string name="import_cannot_match_storage_and_music">Сховище музики не може збігатися з папкою музики</string>
+    <string name="import_cannot_be_nested" formatted="false">Сховище музики не може бути всередині папки музики\n\nСховище: %s\nМузика: %s</string>
+    <string name="import_cannot_be_nested_reverse" formatted="false">Папка музики не може бути всередині сховища\n\nМузика: %s\nСховище: %s</string>
+    <string name="import_scanning">Сканування… </string>
+    <string name="import_storage_not_found">Сховище не знайдено</string>
+    <string name="import_storage_not_found_with_path" formatted="false">Сховище не знайдено: %s</string>
+    <string name="import_no_files_or_folders">Немає файлів або папок для імпорту</string>
+    <string name="import_already_exists" formatted="false">Файл/папка вже існує: %s</string>
+    <string name="import_copying" formatted="false">Копіювання: %s…</string>
+    <string name="import_success" formatted="false">Успішно скопійовано: %s</string>
+    <string name="import_error" formatted="false">Помилка копіювання: %s</string>
+    <string name="import_load">Імпорт</string>
+    <string name="import_back">Назад</string>
+    <string name="import_cancel_copy">Скасувати</string>
+    <string name="import_continue_copy">Продовжити</string>
+    <string name="BlackListItemDestroy">Знищити</string>
+    <string name="BlackListItemRestore">Відновити</string>
+    <string name="import_button_import">Імпорт</string>
+    <string name="import_button_update">Оновити</string>
+    <string name="Import_btn_cancel">Скасувати</string>
+
+    <string name="playlists_title">Плейлисти</string>
+    <string name="playlists_summary" formatted="false">Поточний: %s</string>
+    <string name="current_playlist_title">Поточний плейлист</string>
+    <string name="current_playlist_summary" formatted="false">Вибрано: %s</string>
+    <string name="playlist_switch_title">Перемкнути плейлист</string>
+    <string name="playlist_switch_message" formatted="false">Перемкнути на \'%s\'?</string>
+    <string name="playlist_switch_success" formatted="false">Перемкнено на плейлист: %s</string>
+    <string name="playlist_create_title">Створити плейлист</string>
+    <string name="playlist_create_hint">Назва плейлиста</string>
+    <string name="playlist_create_success" formatted="false">Плейлист створено: %s</string>
+    <string name="playlist_create_auto" formatted="false">Плейлист створено: %s</string>
+    <string name="playlist_exists_error">Плейлист з такою назвою вже існує</string>
+    <string name="playlist_rename_title">Перейменувати плейлист</string>
+    <string name="playlist_rename_success" formatted="false">Плейлист перейменовано на: %s</string>
+    <string name="playlist_delete_title">Видалити плейлист</string>
+    <string name="playlist_delete_message" formatted="false">Видалити \'%s\'?</string>
+    <string name="playlist_delete_success" formatted="false">Плейлист видалено: %s</string>
+    <string name="playlist_delete_last_error">Не можна видалити останній плейлист</string>
+    <string name="playlist_sort_by_name">Сортувати за назвою</string>
+    <string name="playlist_sort_by_modified">Сортувати за датою зміни</string>
+    <string name="playlist_sort_by_used">Сортувати за датою використання</string>
+    <string name="playlist_sorted_by_name">Відсортовано за назвою</string>
+    <string name="playlist_sorted_by_modified">Відсортовано за датою зміни</string>
+    <string name="playlist_sorted_by_used">Відсортовано за датою використання</string>
+    <string name="playlist_empty">Немає плейлистів. Натисніть +, щоб створити.</string>
+    <string name="playlist_modified_prefix">Змінений:</string>
+    <string name="playlist_used_prefix">Використаний:</string>
+    <string name="select_playlist">Вибрати плейлист</string>
+    <string name="playlist_prefix">Плейлист:</string>
+    <string name="no_playlist">Плейлист не вибрано</string>
+    <string name="no_playlists_available">Немає доступних плейлистів</string>
+    <string name="switch_action">Перемкнути</string>
+    <string name="edit_playlists">Змінити</string>
+    <string name="playlist_directory_prefix">Папка: %1$s</string>
+    <string name="playlist_no_directory">Папку не вибрано</string>
+    <string name="import_storage_not_found_path">Сховище імпорту не знайдено: %1$s</string>
+    <string name="import_item_folder_name">📁 %1$s</string>
+    <string name="track_position_format">[%1$d/%2$d] %3$s</string>
+    <string name="folder_position_format">[%1$d/%2$d] %3$s</string>
+    <string name="playlist_display_format">Плейлист: %1$s</string>
+    <string name="debug_ready_summary">Готово - %1$d треків у %2$d папках</string>
+    <string name="playlist_modified_format">%1$s %2$s</string>
+    <string name="playlist_used_format">%1$s %2$s</string>
+</resources>
